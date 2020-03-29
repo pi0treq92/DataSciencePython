@@ -1,0 +1,21 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from mpl_toolkits.mplot3d import Axes3D
+x1 = np.random.randint(30,40,100)
+y1 = np.random.randint(20,30,100)
+z1 = np.random.randint(10,20,100)
+x2 = np.random.randint(50,60,100)
+y2 = np.random.randint(30,40,100)
+z2 = np.random.randint(50,70,100)
+x3 = np.random.randint(10,30,100)
+y3 = np.random.randint(40,50,100)
+z3 = np.random.randint(40,50,100)
+fig = plt.figure()
+axis = Axes3D(fig)
+axis.scatter(x1,y1,z1, c='g',marker='+')
+axis.scatter(x2,y2,z2,c='k',marker='^')
+axis.scatter(x3,y3,z3,c='y',marker='*')
+axis.set_xlabel('X Label')
+axis.set_ylabel('Y Label')
+axis.set_zlabel('Z Label')
+plt.show()
