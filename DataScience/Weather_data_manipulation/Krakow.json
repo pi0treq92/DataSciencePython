@@ -1,0 +1,88 @@
+{
+    "0": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.07,
+            "feels_like": 268.19,
+            "temp_min": 270.93,
+            "temp_max": 273.71,
+            "pressure": 1023,
+            "humidity": 63
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.5,
+            "deg": 250
+        },
+        "clouds": {
+            "all": 94
+        },
+        "dt": 1585595826,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585542031,
+            "sunset": 1585588114
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.07,
+            "feels_like": 268.19,
+            "temp_min": 270.93,
+            "temp_max": 273.71,
+            "pressure": 1023,
+            "humidity": 63
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.5,
+            "deg": 250
+        },
+        "clouds": {
+            "all": 94
+        },
+        "dt": 1585595826,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585542031,
+            "sunset": 1585588114
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    }
+}

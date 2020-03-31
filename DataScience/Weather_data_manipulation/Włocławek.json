@@ -1,0 +1,86 @@
+{
+    "0": {
+        "coord": {
+            "lon": 19.07,
+            "lat": 52.65
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.26,
+            "feels_like": 270.62,
+            "temp_min": 274.26,
+            "temp_max": 274.26,
+            "pressure": 1022,
+            "humidity": 80,
+            "sea_level": 1022,
+            "grnd_level": 1014
+        },
+        "wind": {
+            "speed": 1.98,
+            "deg": 296
+        },
+        "clouds": {
+            "all": 71
+        },
+        "dt": 1585595910,
+        "sys": {
+            "country": "PL",
+            "sunrise": 1585542108,
+            "sunset": 1585588446
+        },
+        "timezone": 7200,
+        "id": 3081741,
+        "name": "W\u0142oc\u0142awek",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 19.07,
+            "lat": 52.65
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.26,
+            "feels_like": 270.62,
+            "temp_min": 274.26,
+            "temp_max": 274.26,
+            "pressure": 1022,
+            "humidity": 80,
+            "sea_level": 1022,
+            "grnd_level": 1014
+        },
+        "wind": {
+            "speed": 1.98,
+            "deg": 296
+        },
+        "clouds": {
+            "all": 71
+        },
+        "dt": 1585595910,
+        "sys": {
+            "country": "PL",
+            "sunrise": 1585542108,
+            "sunset": 1585588446
+        },
+        "timezone": 7200,
+        "id": 3081741,
+        "name": "W\u0142oc\u0142awek",
+        "cod": 200
+    }
+}

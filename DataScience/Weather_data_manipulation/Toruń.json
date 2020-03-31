@@ -1,0 +1,94 @@
+{
+    "0": {
+        "coord": {
+            "lon": 18.6,
+            "lat": 53.01
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.53,
+            "feels_like": 268.54,
+            "temp_min": 272.15,
+            "temp_max": 274.82,
+            "pressure": 1023,
+            "humidity": 74
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 290
+        },
+        "snow": {
+            "3h": 0.27
+        },
+        "clouds": {
+            "all": 94
+        },
+        "dt": 1585595887,
+        "sys": {
+            "type": 1,
+            "id": 1688,
+            "country": "PL",
+            "sunrise": 1585542201,
+            "sunset": 1585588578
+        },
+        "timezone": 7200,
+        "id": 3083271,
+        "name": "Toru\u0144",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 18.6,
+            "lat": 53.01
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.53,
+            "feels_like": 268.54,
+            "temp_min": 272.15,
+            "temp_max": 274.82,
+            "pressure": 1023,
+            "humidity": 74
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 290
+        },
+        "snow": {
+            "3h": 0.27
+        },
+        "clouds": {
+            "all": 94
+        },
+        "dt": 1585595887,
+        "sys": {
+            "type": 1,
+            "id": 1688,
+            "country": "PL",
+            "sunrise": 1585542201,
+            "sunset": 1585588578
+        },
+        "timezone": 7200,
+        "id": 3083271,
+        "name": "Toru\u0144",
+        "cod": 200
+    }
+}

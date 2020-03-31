@@ -1,0 +1,88 @@
+{
+    "0": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 741,
+                "main": "Fog",
+                "description": "fog",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.89,
+            "feels_like": 269.82,
+            "temp_min": 270.93,
+            "temp_max": 275.37,
+            "pressure": 1022,
+            "humidity": 100
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.5,
+            "deg": 220
+        },
+        "clouds": {
+            "all": 98
+        },
+        "dt": 1585596020,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585541665,
+            "sunset": 1585587958
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 741,
+                "main": "Fog",
+                "description": "fog",
+                "icon": "50n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.89,
+            "feels_like": 269.82,
+            "temp_min": 270.93,
+            "temp_max": 275.37,
+            "pressure": 1022,
+            "humidity": 100
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.5,
+            "deg": 220
+        },
+        "clouds": {
+            "all": 98
+        },
+        "dt": 1585596020,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585541665,
+            "sunset": 1585587958
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    }
+}

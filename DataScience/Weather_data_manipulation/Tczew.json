@@ -1,0 +1,88 @@
+{
+    "0": {
+        "coord": {
+            "lon": 18.78,
+            "lat": 54.09
+        },
+        "weather": [
+            {
+                "id": 622,
+                "main": "Snow",
+                "description": "heavy shower snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.41,
+            "feels_like": 266.61,
+            "temp_min": 272.15,
+            "temp_max": 274.82,
+            "pressure": 1023,
+            "humidity": 92
+        },
+        "visibility": 800,
+        "wind": {
+            "speed": 6.7,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585595633,
+        "sys": {
+            "type": 1,
+            "id": 1696,
+            "country": "PL",
+            "sunrise": 1585542099,
+            "sunset": 1585588594
+        },
+        "timezone": 7200,
+        "id": 3083426,
+        "name": "Tczew",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 18.78,
+            "lat": 54.09
+        },
+        "weather": [
+            {
+                "id": 622,
+                "main": "Snow",
+                "description": "heavy shower snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.41,
+            "feels_like": 266.61,
+            "temp_min": 272.15,
+            "temp_max": 274.82,
+            "pressure": 1023,
+            "humidity": 92
+        },
+        "visibility": 800,
+        "wind": {
+            "speed": 6.7,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585595633,
+        "sys": {
+            "type": 1,
+            "id": 1696,
+            "country": "PL",
+            "sunrise": 1585542099,
+            "sunset": 1585588594
+        },
+        "timezone": 7200,
+        "id": 3083426,
+        "name": "Tczew",
+        "cod": 200
+    }
+}

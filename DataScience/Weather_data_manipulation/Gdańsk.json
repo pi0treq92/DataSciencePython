@@ -1,0 +1,88 @@
+{
+    "0": {
+        "coord": {
+            "lon": 18.65,
+            "lat": 54.35
+        },
+        "weather": [
+            {
+                "id": 622,
+                "main": "Snow",
+                "description": "heavy shower snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.52,
+            "feels_like": 266.73,
+            "temp_min": 272.15,
+            "temp_max": 274.82,
+            "pressure": 1023,
+            "humidity": 92
+        },
+        "visibility": 800,
+        "wind": {
+            "speed": 6.7,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585595717,
+        "sys": {
+            "type": 1,
+            "id": 1696,
+            "country": "PL",
+            "sunrise": 1585542115,
+            "sunset": 1585588640
+        },
+        "timezone": 7200,
+        "id": 3099434,
+        "name": "Gda\u0144sk",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 18.65,
+            "lat": 54.35
+        },
+        "weather": [
+            {
+                "id": 622,
+                "main": "Snow",
+                "description": "heavy shower snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 273.52,
+            "feels_like": 266.73,
+            "temp_min": 272.15,
+            "temp_max": 274.82,
+            "pressure": 1023,
+            "humidity": 92
+        },
+        "visibility": 800,
+        "wind": {
+            "speed": 6.7,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585595717,
+        "sys": {
+            "type": 1,
+            "id": 1696,
+            "country": "PL",
+            "sunrise": 1585542115,
+            "sunset": 1585588640
+        },
+        "timezone": 7200,
+        "id": 3099434,
+        "name": "Gda\u0144sk",
+        "cod": 200
+    }
+}

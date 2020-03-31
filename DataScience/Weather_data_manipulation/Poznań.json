@@ -1,0 +1,88 @@
+{
+    "0": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 620,
+                "main": "Snow",
+                "description": "light shower snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.5,
+            "feels_like": 269.69,
+            "temp_min": 273.15,
+            "temp_max": 275.93,
+            "pressure": 1024,
+            "humidity": 77
+        },
+        "visibility": 8000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585595822,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585542633,
+            "sunset": 1585588947
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 620,
+                "main": "Snow",
+                "description": "light shower snow",
+                "icon": "13n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.5,
+            "feels_like": 269.69,
+            "temp_min": 273.15,
+            "temp_max": 275.93,
+            "pressure": 1024,
+            "humidity": 77
+        },
+        "visibility": 8000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585595822,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585542633,
+            "sunset": 1585588947
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "0": {
+        "coord": {
+            "lon": 19.03,
+            "lat": 50.26
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.28,
+            "feels_like": 268.95,
+            "temp_min": 270.93,
+            "temp_max": 273.71,
+            "pressure": 1023,
+            "humidity": 54
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.5
+        },
+        "clouds": {
+            "all": 78
+        },
+        "dt": 1585595724,
+        "sys": {
+            "type": 1,
+            "id": 1705,
+            "country": "PL",
+            "sunrise": 1585542236,
+            "sunset": 1585588336
+        },
+        "timezone": 7200,
+        "id": 3096472,
+        "name": "Katowice",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 19.03,
+            "lat": 50.26
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.28,
+            "feels_like": 268.95,
+            "temp_min": 270.93,
+            "temp_max": 273.71,
+            "pressure": 1023,
+            "humidity": 54
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.5
+        },
+        "clouds": {
+            "all": 78
+        },
+        "dt": 1585595724,
+        "sys": {
+            "type": 1,
+            "id": 1705,
+            "country": "PL",
+            "sunrise": 1585542236,
+            "sunset": 1585588336
+        },
+        "timezone": 7200,
+        "id": 3096472,
+        "name": "Katowice",
+        "cod": 200
+    }
+}

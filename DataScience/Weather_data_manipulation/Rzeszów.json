@@ -1,0 +1,88 @@
+{
+    "0": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.09,
+            "feels_like": 265.88,
+            "temp_min": 270.37,
+            "temp_max": 273.71,
+            "pressure": 1022,
+            "humidity": 54
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 56
+        },
+        "dt": 1585595777,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585541535,
+            "sunset": 1585587613
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "1": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 272.09,
+            "feels_like": 265.88,
+            "temp_min": 270.37,
+            "temp_max": 273.71,
+            "pressure": 1022,
+            "humidity": 54
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 56
+        },
+        "dt": 1585595777,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585541535,
+            "sunset": 1585587613
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    }
+}
