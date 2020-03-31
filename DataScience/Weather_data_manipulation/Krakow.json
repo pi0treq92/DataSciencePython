@@ -6,36 +6,36 @@
         },
         "weather": [
             {
-                "id": 804,
+                "id": 803,
                 "main": "Clouds",
-                "description": "overcast clouds",
-                "icon": "04n"
+                "description": "broken clouds",
+                "icon": "04d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 272.07,
-            "feels_like": 268.19,
-            "temp_min": 270.93,
-            "temp_max": 273.71,
-            "pressure": 1023,
-            "humidity": 63
+            "temp": 274.69,
+            "feels_like": 270.11,
+            "temp_min": 273.15,
+            "temp_max": 275.93,
+            "pressure": 1025,
+            "humidity": 55
         },
         "visibility": 10000,
         "wind": {
-            "speed": 1.5,
-            "deg": 250
+            "speed": 2.6,
+            "deg": 220
         },
         "clouds": {
-            "all": 94
+            "all": 74
         },
-        "dt": 1585595826,
+        "dt": 1585640338,
         "sys": {
             "type": 1,
             "id": 1701,
             "country": "PL",
-            "sunrise": 1585542031,
-            "sunset": 1585588114
+            "sunrise": 1585628300,
+            "sunset": 1585674608
         },
         "timezone": 7200,
         "id": 3094802,
@@ -49,36 +49,1150 @@
         },
         "weather": [
             {
-                "id": 804,
+                "id": 803,
                 "main": "Clouds",
-                "description": "overcast clouds",
-                "icon": "04n"
+                "description": "broken clouds",
+                "icon": "04d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 272.07,
-            "feels_like": 268.19,
-            "temp_min": 270.93,
-            "temp_max": 273.71,
-            "pressure": 1023,
-            "humidity": 63
+            "temp": 275.13,
+            "feels_like": 270.59,
+            "temp_min": 274.15,
+            "temp_max": 276.48,
+            "pressure": 1025,
+            "humidity": 55
         },
         "visibility": 10000,
         "wind": {
-            "speed": 1.5,
-            "deg": 250
+            "speed": 2.6,
+            "deg": 220
         },
         "clouds": {
-            "all": 94
+            "all": 74
         },
-        "dt": 1585595826,
+        "dt": 1585641121,
         "sys": {
             "type": 1,
             "id": 1701,
             "country": "PL",
-            "sunrise": 1585542031,
-            "sunset": 1585588114
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "2": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.37,
+            "feels_like": 270.85,
+            "temp_min": 273.71,
+            "temp_max": 277.04,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 220
+        },
+        "clouds": {
+            "all": 74
+        },
+        "dt": 1585642020,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "3": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.84,
+            "feels_like": 271.36,
+            "temp_min": 273.71,
+            "temp_max": 277.59,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 200
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585642981,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "4": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.33,
+            "feels_like": 271.9,
+            "temp_min": 275.15,
+            "temp_max": 278.15,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 200
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585643740,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "5": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.01,
+            "feels_like": 272.54,
+            "temp_min": 275.37,
+            "temp_max": 278.71,
+            "pressure": 1025,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 220
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585644600,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "6": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.65,
+            "feels_like": 273.25,
+            "temp_min": 275.93,
+            "temp_max": 279.26,
+            "pressure": 1025,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 220
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585645663,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "7": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.21,
+            "feels_like": 272.06,
+            "temp_min": 275.93,
+            "temp_max": 279.26,
+            "pressure": 1025,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 200
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585646440,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "8": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.94,
+            "feels_like": 271.77,
+            "temp_min": 275.93,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 200
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585647493,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "9": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.23,
+            "feels_like": 271.9,
+            "temp_min": 274.82,
+            "temp_max": 280.37,
+            "pressure": 1025,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 230
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585648379,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "10": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.46,
+            "feels_like": 272.15,
+            "temp_min": 275.93,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 230
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585649328,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "11": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.68,
+            "feels_like": 271.65,
+            "temp_min": 275.37,
+            "temp_max": 278.15,
+            "pressure": 1025,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585650121,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "12": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.3,
+            "feels_like": 272.32,
+            "temp_min": 275.93,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585651075,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "13": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.45,
+            "feels_like": 271.87,
+            "temp_min": 275.93,
+            "temp_max": 280.93,
+            "pressure": 1025,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585651871,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "14": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.13,
+            "feels_like": 271.52,
+            "temp_min": 275.93,
+            "temp_max": 279.26,
+            "pressure": 1025,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585652849,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "15": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.78,
+            "feels_like": 272.84,
+            "temp_min": 275.93,
+            "temp_max": 280.37,
+            "pressure": 1025,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 230
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585655471,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "16": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.98,
+            "feels_like": 271.77,
+            "temp_min": 276.48,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 280
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585656754,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "17": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.65,
+            "feels_like": 272.51,
+            "temp_min": 276.48,
+            "temp_max": 281.48,
+            "pressure": 1025,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 280
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585657501,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "18": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.68,
+            "feels_like": 273.82,
+            "temp_min": 277.04,
+            "temp_max": 279.82,
+            "pressure": 1024,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585658443,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "19": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.05,
+            "feels_like": 273.14,
+            "temp_min": 277.04,
+            "temp_max": 279.26,
+            "pressure": 1024,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585659412,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "20": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.33,
+            "feels_like": 274.74,
+            "temp_min": 277.04,
+            "temp_max": 279.82,
+            "pressure": 1024,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585660218,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "21": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.29,
+            "feels_like": 274.69,
+            "temp_min": 277.04,
+            "temp_max": 279.26,
+            "pressure": 1024,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585661183,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "22": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.17,
+            "feels_like": 272.07,
+            "temp_min": 277.04,
+            "temp_max": 279.82,
+            "pressure": 1024,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585662150,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "23": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.85,
+            "feels_like": 271.72,
+            "temp_min": 275.93,
+            "temp_max": 279.82,
+            "pressure": 1024,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585662901,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "24": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 620,
+                "main": "Snow",
+                "description": "light shower snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.34,
+            "feels_like": 271.72,
+            "temp_min": 275.93,
+            "temp_max": 280.37,
+            "pressure": 1024,
+            "humidity": 59
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 260
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585664096,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "25": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 620,
+                "main": "Snow",
+                "description": "light shower snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.19,
+            "feels_like": 271.56,
+            "temp_min": 274.82,
+            "temp_max": 280.37,
+            "pressure": 1024,
+            "humidity": 59
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 260
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585664788,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "26": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 620,
+                "main": "Snow",
+                "description": "light shower snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.66,
+            "feels_like": 270.97,
+            "temp_min": 274.26,
+            "temp_max": 278.15,
+            "pressure": 1024,
+            "humidity": 59
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 260
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585665612,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
+        },
+        "timezone": 7200,
+        "id": 3094802,
+        "name": "Krakow",
+        "cod": 200
+    },
+    "27": {
+        "coord": {
+            "lon": 19.92,
+            "lat": 50.08
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.63,
+            "feels_like": 272.4,
+            "temp_min": 274.26,
+            "temp_max": 278.15,
+            "pressure": 1024,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1,
+            "deg": 120
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585666801,
+        "sys": {
+            "type": 1,
+            "id": 1701,
+            "country": "PL",
+            "sunrise": 1585628300,
+            "sunset": 1585674608
         },
         "timezone": 7200,
         "id": 3094802,

@@ -6,36 +6,39 @@
         },
         "weather": [
             {
-                "id": 620,
+                "id": 600,
                 "main": "Snow",
-                "description": "light shower snow",
-                "icon": "13n"
+                "description": "light snow",
+                "icon": "13d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 274.5,
-            "feels_like": 269.69,
+            "temp": 273.65,
+            "feels_like": 269.03,
             "temp_min": 273.15,
-            "temp_max": 275.93,
-            "pressure": 1024,
-            "humidity": 77
+            "temp_max": 274.26,
+            "pressure": 1028,
+            "humidity": 91
         },
-        "visibility": 8000,
+        "visibility": 10000,
         "wind": {
             "speed": 3.6,
-            "deg": 300
+            "deg": 10
+        },
+        "snow": {
+            "3h": 0.23
         },
         "clouds": {
-            "all": 75
+            "all": 86
         },
-        "dt": 1585595822,
+        "dt": 1585639618,
         "sys": {
             "type": 1,
             "id": 1710,
             "country": "PL",
-            "sunrise": 1585542633,
-            "sunset": 1585588947
+            "sunrise": 1585628892,
+            "sunset": 1585675451
         },
         "timezone": 7200,
         "id": 3088171,
@@ -49,36 +52,1160 @@
         },
         "weather": [
             {
-                "id": 620,
-                "main": "Snow",
-                "description": "light shower snow",
-                "icon": "13n"
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 274.5,
-            "feels_like": 269.69,
-            "temp_min": 273.15,
-            "temp_max": 275.93,
-            "pressure": 1024,
-            "humidity": 77
+            "temp": 274.77,
+            "feels_like": 269.15,
+            "temp_min": 273.71,
+            "temp_max": 275.37,
+            "pressure": 1028,
+            "humidity": 55
         },
-        "visibility": 8000,
+        "visibility": 10000,
         "wind": {
-            "speed": 3.6,
-            "deg": 300
+            "speed": 4.1,
+            "deg": 10
         },
         "clouds": {
-            "all": 75
+            "all": 33
         },
-        "dt": 1585595822,
+        "dt": 1585641121,
         "sys": {
             "type": 1,
             "id": 1710,
             "country": "PL",
-            "sunrise": 1585542633,
-            "sunset": 1585588947
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "2": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 274.9,
+            "feels_like": 269.29,
+            "temp_min": 274.15,
+            "temp_max": 276.48,
+            "pressure": 1028,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 10
+        },
+        "clouds": {
+            "all": 33
+        },
+        "dt": 1585641700,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "3": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.37,
+            "feels_like": 269.36,
+            "temp_min": 274.26,
+            "temp_max": 276.48,
+            "pressure": 1028,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585642386,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "4": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 500,
+                "main": "Rain",
+                "description": "light rain",
+                "icon": "10d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.41,
+            "feels_like": 269.4,
+            "temp_min": 274.82,
+            "temp_max": 275.93,
+            "pressure": 1028,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 40
+        },
+        "rain": {
+            "1h": 0.25
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585643400,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "5": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 500,
+                "main": "Rain",
+                "description": "light rain",
+                "icon": "10d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.78,
+            "feels_like": 269.7,
+            "temp_min": 275.15,
+            "temp_max": 277.04,
+            "pressure": 1028,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 40
+        },
+        "rain": {
+            "1h": 0.25
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585644722,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "6": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.88,
+            "feels_like": 269.81,
+            "temp_min": 275.15,
+            "temp_max": 277.04,
+            "pressure": 1028,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585645501,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "7": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.05,
+            "feels_like": 270.45,
+            "temp_min": 275.93,
+            "temp_max": 276.48,
+            "pressure": 1028,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585646579,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "8": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.52,
+            "feels_like": 270.96,
+            "temp_min": 276.15,
+            "temp_max": 277.59,
+            "pressure": 1028,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585647422,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "9": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.29,
+            "feels_like": 269.91,
+            "temp_min": 275.15,
+            "temp_max": 277.59,
+            "pressure": 1028,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585648227,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "10": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.89,
+            "feels_like": 269.47,
+            "temp_min": 275.15,
+            "temp_max": 276.48,
+            "pressure": 1028,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585649352,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "11": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.65,
+            "feels_like": 270.12,
+            "temp_min": 276.15,
+            "temp_max": 277.59,
+            "pressure": 1029,
+            "humidity": 40
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585650115,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "12": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.35,
+            "feels_like": 269.79,
+            "temp_min": 276.15,
+            "temp_max": 277.04,
+            "pressure": 1029,
+            "humidity": 40
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 360
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585650482,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "13": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.33,
+            "feels_like": 270.2,
+            "temp_min": 275.15,
+            "temp_max": 277.59,
+            "pressure": 1028,
+            "humidity": 43
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 39
+        },
+        "dt": 1585651551,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "14": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.48,
+            "feels_like": 270.36,
+            "temp_min": 275.15,
+            "temp_max": 277.59,
+            "pressure": 1028,
+            "humidity": 43
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 39
+        },
+        "dt": 1585652765,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "15": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.94,
+            "feels_like": 270.43,
+            "temp_min": 275.93,
+            "temp_max": 278.15,
+            "pressure": 1028,
+            "humidity": 40
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 39
+        },
+        "dt": 1585655879,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "16": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.81,
+            "feels_like": 271.09,
+            "temp_min": 275.93,
+            "temp_max": 277.59,
+            "pressure": 1028,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 39
+        },
+        "dt": 1585656605,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "17": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.72,
+            "feels_like": 270.99,
+            "temp_min": 275.93,
+            "temp_max": 278.15,
+            "pressure": 1028,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 340
+        },
+        "clouds": {
+            "all": 34
+        },
+        "dt": 1585657737,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "18": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.17,
+            "feels_like": 271.48,
+            "temp_min": 275.93,
+            "temp_max": 278.71,
+            "pressure": 1028,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 39
+        },
+        "dt": 1585658460,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "19": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.19,
+            "feels_like": 271.5,
+            "temp_min": 276.15,
+            "temp_max": 278.71,
+            "pressure": 1028,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 20
+        },
+        "clouds": {
+            "all": 34
+        },
+        "dt": 1585659469,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "20": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.08,
+            "feels_like": 272.08,
+            "temp_min": 276.15,
+            "temp_max": 278.15,
+            "pressure": 1028,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585660485,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "21": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.87,
+            "feels_like": 271.86,
+            "temp_min": 276.15,
+            "temp_max": 277.59,
+            "pressure": 1028,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 40
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585661391,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "22": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.72,
+            "feels_like": 270.48,
+            "temp_min": 275.93,
+            "temp_max": 278.71,
+            "pressure": 1028,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585662120,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "23": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.64,
+            "feels_like": 270.39,
+            "temp_min": 275.93,
+            "temp_max": 277.59,
+            "pressure": 1028,
+            "humidity": 51
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585662908,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "24": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.73,
+            "feels_like": 271.78,
+            "temp_min": 276.15,
+            "temp_max": 277.59,
+            "pressure": 1027,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 24
+        },
+        "dt": 1585664084,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "25": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.08,
+            "feels_like": 272.16,
+            "temp_min": 276.15,
+            "temp_max": 278.15,
+            "pressure": 1027,
+            "humidity": 47
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 24
+        },
+        "dt": 1585664945,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "26": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.28,
+            "feels_like": 271.6,
+            "temp_min": 276.48,
+            "temp_max": 277.59,
+            "pressure": 1027,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 24
+        },
+        "dt": 1585665692,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
+        },
+        "timezone": 7200,
+        "id": 3088171,
+        "name": "Pozna\u0144",
+        "cod": 200
+    },
+    "27": {
+        "coord": {
+            "lon": 16.93,
+            "lat": 52.41
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.39,
+            "feels_like": 271.72,
+            "temp_min": 277.04,
+            "temp_max": 278.71,
+            "pressure": 1027,
+            "humidity": 44
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 24
+        },
+        "dt": 1585666762,
+        "sys": {
+            "type": 1,
+            "id": 1710,
+            "country": "PL",
+            "sunrise": 1585628892,
+            "sunset": 1585675451
         },
         "timezone": 7200,
         "id": 3088171,

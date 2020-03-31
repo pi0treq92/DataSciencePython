@@ -6,36 +6,36 @@
         },
         "weather": [
             {
-                "id": 741,
-                "main": "Fog",
-                "description": "fog",
-                "icon": "50n"
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 272.89,
-            "feels_like": 269.82,
-            "temp_min": 270.93,
-            "temp_max": 275.37,
-            "pressure": 1022,
-            "humidity": 100
+            "temp": 274.28,
+            "feels_like": 269.9,
+            "temp_min": 272.59,
+            "temp_max": 276.48,
+            "pressure": 1025,
+            "humidity": 66
         },
         "visibility": 10000,
         "wind": {
-            "speed": 1.5,
-            "deg": 220
+            "speed": 2.6,
+            "deg": 320
         },
         "clouds": {
-            "all": 98
+            "all": 75
         },
-        "dt": 1585596020,
+        "dt": 1585640023,
         "sys": {
             "type": 1,
             "id": 1713,
             "country": "PL",
-            "sunrise": 1585541665,
-            "sunset": 1585587958
+            "sunrise": 1585627924,
+            "sunset": 1585674461
         },
         "timezone": 7200,
         "id": 756135,
@@ -49,36 +49,1168 @@
         },
         "weather": [
             {
-                "id": 741,
-                "main": "Fog",
-                "description": "fog",
-                "icon": "50n"
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 272.89,
-            "feels_like": 269.82,
-            "temp_min": 270.93,
-            "temp_max": 275.37,
-            "pressure": 1022,
-            "humidity": 100
+            "temp": 274.93,
+            "feels_like": 270.97,
+            "temp_min": 272.59,
+            "temp_max": 277.59,
+            "pressure": 1025,
+            "humidity": 66
         },
         "visibility": 10000,
         "wind": {
-            "speed": 1.5,
-            "deg": 220
+            "speed": 2.1,
+            "deg": 320
         },
         "clouds": {
-            "all": 98
+            "all": 20
         },
-        "dt": 1585596020,
+        "dt": 1585640730,
         "sys": {
             "type": 1,
             "id": 1713,
             "country": "PL",
-            "sunrise": 1585541665,
-            "sunset": 1585587958
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "2": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.07,
+            "feels_like": 271.13,
+            "temp_min": 273.15,
+            "temp_max": 277.59,
+            "pressure": 1025,
+            "humidity": 66
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1,
+            "deg": 320
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585641490,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "3": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.33,
+            "feels_like": 271.75,
+            "temp_min": 273.15,
+            "temp_max": 277.59,
+            "pressure": 1025,
+            "humidity": 80
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1,
+            "deg": 320
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585642773,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "4": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.76,
+            "feels_like": 272.23,
+            "temp_min": 273.15,
+            "temp_max": 278.71,
+            "pressure": 1025,
+            "humidity": 80
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1,
+            "deg": 320
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585643538,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "5": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 275.79,
+            "feels_like": 271.77,
+            "temp_min": 273.71,
+            "temp_max": 277.59,
+            "pressure": 1026,
+            "humidity": 74
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585644609,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "6": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 803,
+                "main": "Clouds",
+                "description": "broken clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.02,
+            "feels_like": 272.03,
+            "temp_min": 274.15,
+            "temp_max": 278.15,
+            "pressure": 1026,
+            "humidity": 74
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 75
+        },
+        "dt": 1585645498,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "7": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.29,
+            "feels_like": 271.51,
+            "temp_min": 274.26,
+            "temp_max": 278.71,
+            "pressure": 1026,
+            "humidity": 69
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585645996,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "8": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.8,
+            "feels_like": 272.08,
+            "temp_min": 274.82,
+            "temp_max": 279.26,
+            "pressure": 1026,
+            "humidity": 69
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585647326,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "9": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.87,
+            "feels_like": 273.25,
+            "temp_min": 275.93,
+            "temp_max": 279.26,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585647943,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "10": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.69,
+            "feels_like": 273.05,
+            "temp_min": 276.48,
+            "temp_max": 278.71,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585648816,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "11": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.98,
+            "feels_like": 273.37,
+            "temp_min": 276.48,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585649932,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "12": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.73,
+            "feels_like": 273.1,
+            "temp_min": 276.48,
+            "temp_max": 279.26,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585650386,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "13": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.4,
+            "feels_like": 275.1,
+            "temp_min": 277.04,
+            "temp_max": 280.37,
+            "pressure": 1025,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585651634,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "14": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.66,
+            "feels_like": 275.39,
+            "temp_min": 275.37,
+            "temp_max": 281.48,
+            "pressure": 1025,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585652405,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "15": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.91,
+            "feels_like": 273.54,
+            "temp_min": 276.48,
+            "temp_max": 280.37,
+            "pressure": 1025,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585655649,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "16": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.82,
+            "feels_like": 273.44,
+            "temp_min": 276.48,
+            "temp_max": 280.37,
+            "pressure": 1025,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585656062,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "17": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.83,
+            "feels_like": 273.46,
+            "temp_min": 277.04,
+            "temp_max": 280.37,
+            "pressure": 1025,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 320
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585657510,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "18": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.05,
+            "feels_like": 273.95,
+            "temp_min": 276.48,
+            "temp_max": 281.48,
+            "pressure": 1024,
+            "humidity": 35
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 29
+        },
+        "dt": 1585658381,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "19": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.5,
+            "feels_like": 274.44,
+            "temp_min": 277.04,
+            "temp_max": 281.48,
+            "pressure": 1024,
+            "humidity": 35
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.1,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 29
+        },
+        "dt": 1585659133,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "20": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.21,
+            "feels_like": 273.68,
+            "temp_min": 276.48,
+            "temp_max": 281.48,
+            "pressure": 1024,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 290
+        },
+        "clouds": {
+            "all": 29
+        },
+        "dt": 1585660297,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "21": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.61,
+            "feels_like": 274.11,
+            "temp_min": 278.15,
+            "temp_max": 280.93,
+            "pressure": 1024,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.6,
+            "deg": 290
+        },
+        "clouds": {
+            "all": 29
+        },
+        "dt": 1585660944,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "22": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.04,
+            "feels_like": 273.15,
+            "temp_min": 276.48,
+            "temp_max": 280.93,
+            "pressure": 1024,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 310
+        },
+        "snow": {
+            "3h": 0.11
+        },
+        "clouds": {
+            "all": 25
+        },
+        "dt": 1585662037,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "23": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.2,
+            "feels_like": 273.32,
+            "temp_min": 277.59,
+            "temp_max": 281.48,
+            "pressure": 1024,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 310
+        },
+        "snow": {
+            "3h": 0.11
+        },
+        "clouds": {
+            "all": 25
+        },
+        "dt": 1585662804,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "24": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.09,
+            "feels_like": 273.2,
+            "temp_min": 277.04,
+            "temp_max": 281.48,
+            "pressure": 1024,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 310
+        },
+        "snow": {
+            "3h": 0.11
+        },
+        "clouds": {
+            "all": 25
+        },
+        "dt": 1585663336,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "25": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.64,
+            "feels_like": 271.96,
+            "temp_min": 277.04,
+            "temp_max": 280.37,
+            "pressure": 1024,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 5.1,
+            "deg": 320
+        },
+        "snow": {
+            "3h": 0.11
+        },
+        "clouds": {
+            "all": 25
+        },
+        "dt": 1585664882,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "26": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.06,
+            "feels_like": 271.64,
+            "temp_min": 277.04,
+            "temp_max": 280.93,
+            "pressure": 1024,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.2,
+            "deg": 310
+        },
+        "snow": {
+            "3h": 0.11
+        },
+        "clouds": {
+            "all": 25
+        },
+        "dt": 1585665866,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
+        },
+        "timezone": 7200,
+        "id": 756135,
+        "name": "Warsaw",
+        "cod": 200
+    },
+    "27": {
+        "coord": {
+            "lon": 21.01,
+            "lat": 52.23
+        },
+        "weather": [
+            {
+                "id": 600,
+                "main": "Snow",
+                "description": "light snow",
+                "icon": "13d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.02,
+            "feels_like": 271.6,
+            "temp_min": 277.59,
+            "temp_max": 280.37,
+            "pressure": 1024,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 6.2,
+            "deg": 310
+        },
+        "snow": {
+            "3h": 0.11
+        },
+        "clouds": {
+            "all": 25
+        },
+        "dt": 1585666467,
+        "sys": {
+            "type": 1,
+            "id": 1713,
+            "country": "PL",
+            "sunrise": 1585627924,
+            "sunset": 1585674461
         },
         "timezone": 7200,
         "id": 756135,

@@ -6,36 +6,36 @@
         },
         "weather": [
             {
-                "id": 803,
-                "main": "Clouds",
-                "description": "broken clouds",
-                "icon": "04n"
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 272.09,
-            "feels_like": 265.88,
-            "temp_min": 270.37,
-            "temp_max": 273.71,
-            "pressure": 1022,
-            "humidity": 54
+            "temp": 274.53,
+            "feels_like": 270.77,
+            "temp_min": 273.15,
+            "temp_max": 278.15,
+            "pressure": 1025,
+            "humidity": 58
         },
         "visibility": 10000,
         "wind": {
-            "speed": 4.6,
-            "deg": 300
+            "speed": 1.5,
+            "deg": 250
         },
         "clouds": {
-            "all": 56
+            "all": 0
         },
-        "dt": 1585595777,
+        "dt": 1585640144,
         "sys": {
             "type": 1,
             "id": 1711,
             "country": "PL",
-            "sunrise": 1585541535,
-            "sunset": 1585587613
+            "sunrise": 1585627804,
+            "sunset": 1585674106
         },
         "timezone": 7200,
         "id": 759734,
@@ -49,36 +49,1138 @@
         },
         "weather": [
             {
-                "id": 803,
-                "main": "Clouds",
-                "description": "broken clouds",
-                "icon": "04n"
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
             }
         ],
         "base": "stations",
         "main": {
-            "temp": 272.09,
-            "feels_like": 265.88,
-            "temp_min": 270.37,
-            "temp_max": 273.71,
-            "pressure": 1022,
-            "humidity": 54
+            "temp": 276,
+            "feels_like": 272.76,
+            "temp_min": 274.15,
+            "temp_max": 279.26,
+            "pressure": 1025,
+            "humidity": 59
         },
         "visibility": 10000,
         "wind": {
-            "speed": 4.6,
-            "deg": 300
+            "speed": 1
         },
         "clouds": {
-            "all": 56
+            "all": 0
         },
-        "dt": 1585595777,
+        "dt": 1585641065,
         "sys": {
             "type": 1,
             "id": 1711,
             "country": "PL",
-            "sunrise": 1585541535,
-            "sunset": 1585587613
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "2": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.22,
+            "feels_like": 272.9,
+            "temp_min": 274.26,
+            "temp_max": 278.71,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1585642141,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "3": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 276.46,
+            "feels_like": 273.16,
+            "temp_min": 274.82,
+            "temp_max": 278.71,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1585642845,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "4": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.03,
+            "feels_like": 273.79,
+            "temp_min": 275.15,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 55
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1585643905,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "5": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.65,
+            "feels_like": 273.51,
+            "temp_min": 275.93,
+            "temp_max": 280.37,
+            "pressure": 1025,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1,
+            "deg": 220
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1585644845,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "6": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.8,
+            "feels_like": 273.68,
+            "temp_min": 275.93,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 48
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1,
+            "deg": 220
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1585645502,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "7": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.59,
+            "feels_like": 273.25,
+            "temp_min": 275.93,
+            "temp_max": 280.93,
+            "pressure": 1025,
+            "humidity": 41
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585646527,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "8": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.85,
+            "feels_like": 273.53,
+            "temp_min": 275.93,
+            "temp_max": 279.82,
+            "pressure": 1025,
+            "humidity": 41
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585647418,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "9": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.59,
+            "feels_like": 273.25,
+            "temp_min": 276.48,
+            "temp_max": 279.26,
+            "pressure": 1025,
+            "humidity": 41
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585648451,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "10": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.32,
+            "feels_like": 274.04,
+            "temp_min": 276.48,
+            "temp_max": 281.48,
+            "pressure": 1025,
+            "humidity": 41
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585649293,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "11": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.43,
+            "feels_like": 272.65,
+            "temp_min": 276.48,
+            "temp_max": 278.71,
+            "pressure": 1024,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585650187,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "12": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.52,
+            "feels_like": 272.75,
+            "temp_min": 277.04,
+            "temp_max": 278.15,
+            "pressure": 1024,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.6,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585651141,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "13": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.63,
+            "feels_like": 274.62,
+            "temp_min": 277.59,
+            "temp_max": 280.93,
+            "pressure": 1024,
+            "humidity": 35
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.5
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585651910,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "14": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.45,
+            "feels_like": 274.43,
+            "temp_min": 277.04,
+            "temp_max": 280.37,
+            "pressure": 1024,
+            "humidity": 35
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1.5
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585652807,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "15": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.85,
+            "feels_like": 272.6,
+            "temp_min": 278.15,
+            "temp_max": 279.82,
+            "pressure": 1024,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 350
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585655967,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "16": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.83,
+            "feels_like": 274.26,
+            "temp_min": 277.04,
+            "temp_max": 281.48,
+            "pressure": 1024,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585656884,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "17": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.74,
+            "feels_like": 274.17,
+            "temp_min": 277.59,
+            "temp_max": 280.93,
+            "pressure": 1024,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585657496,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "18": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 279.34,
+            "feels_like": 273.41,
+            "temp_min": 278.15,
+            "temp_max": 281.48,
+            "pressure": 1024,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585658401,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "19": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.26,
+            "feels_like": 272.26,
+            "temp_min": 277.59,
+            "temp_max": 279.82,
+            "pressure": 1024,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.1,
+            "deg": 310
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585659339,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "20": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 277.82,
+            "feels_like": 273.19,
+            "temp_min": 276.48,
+            "temp_max": 280.37,
+            "pressure": 1023,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585660261,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "21": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.4,
+            "feels_like": 273.81,
+            "temp_min": 277.04,
+            "temp_max": 280.93,
+            "pressure": 1023,
+            "humidity": 30
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.1
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585661269,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "22": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.82,
+            "feels_like": 275.17,
+            "temp_min": 277.15,
+            "temp_max": 280.37,
+            "pressure": 1023,
+            "humidity": 35
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585662293,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "23": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.75,
+            "feels_like": 275.1,
+            "temp_min": 277.15,
+            "temp_max": 280.37,
+            "pressure": 1023,
+            "humidity": 35
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 1
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585663084,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "24": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.88,
+            "feels_like": 272.63,
+            "temp_min": 276.48,
+            "temp_max": 280.93,
+            "pressure": 1023,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585664057,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "25": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.76,
+            "feels_like": 272.5,
+            "temp_min": 275.93,
+            "temp_max": 281.48,
+            "pressure": 1023,
+            "humidity": 32
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 330
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1585664714,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "26": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.47,
+            "feels_like": 272.37,
+            "temp_min": 275.37,
+            "temp_max": 282.04,
+            "pressure": 1023,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 260
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585665899,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
+        },
+        "timezone": 7200,
+        "id": 759734,
+        "name": "Rzesz\u00f3w",
+        "cod": 200
+    },
+    "27": {
+        "coord": {
+            "lon": 22,
+            "lat": 50.04
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 278.33,
+            "feels_like": 272.22,
+            "temp_min": 275.37,
+            "temp_max": 282.04,
+            "pressure": 1023,
+            "humidity": 38
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.6,
+            "deg": 260
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1585666506,
+        "sys": {
+            "type": 1,
+            "id": 1711,
+            "country": "PL",
+            "sunrise": 1585627804,
+            "sunset": 1585674106
         },
         "timezone": 7200,
         "id": 759734,
